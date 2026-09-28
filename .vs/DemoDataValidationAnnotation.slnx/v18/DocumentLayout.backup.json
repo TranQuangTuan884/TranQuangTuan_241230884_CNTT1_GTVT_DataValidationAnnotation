@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WELCOM\\Downloads\\DemoDataValidationAnnotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD1B585-C846-DCCC-1BEC-6B2CE56A4C77}|DemoDataValidationAnnotation\\DemoDataValidationAnnotation.csproj|c:\\users\\welcom\\downloads\\demodatavalidationannotation\\demodatavalidationannotation\\controllers\\tqtmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD1B585-C846-DCCC-1BEC-6B2CE56A4C77}|DemoDataValidationAnnotation\\DemoDataValidationAnnotation.csproj|solutionrelative:demodatavalidationannotation\\controllers\\tqtmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD1B585-C846-DCCC-1BEC-6B2CE56A4C77}|DemoDataValidationAnnotation\\DemoDataValidationAnnotation.csproj|c:\\users\\welcom\\downloads\\demodatavalidationannotation\\demodatavalidationannotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD1B585-C846-DCCC-1BEC-6B2CE56A4C77}|DemoDataValidationAnnotation\\DemoDataValidationAnnotation.csproj|solutionrelative:demodatavalidationannotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD1B585-C846-DCCC-1BEC-6B2CE56A4C77}|DemoDataValidationAnnotation\\DemoDataValidationAnnotation.csproj|c:\\users\\welcom\\downloads\\demodatavalidationannotation\\demodatavalidationannotation\\models\\tqtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD1B585-C846-DCCC-1BEC-6B2CE56A4C77}|DemoDataValidationAnnotation\\DemoDataValidationAnnotation.csproj|solutionrelative:demodatavalidationannotation\\models\\tqtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TqtMembersController.cs",
+              "DocumentMoniker": "C:\\Users\\WELCOM\\Downloads\\DemoDataValidationAnnotation\\DemoDataValidationAnnotation\\Controllers\\TqtMembersController.cs",
+              "RelativeDocumentMoniker": "DemoDataValidationAnnotation\\Controllers\\TqtMembersController.cs",
+              "ToolTip": "C:\\Users\\WELCOM\\Downloads\\DemoDataValidationAnnotation\\DemoDataValidationAnnotation\\Controllers\\TqtMembersController.cs",
+              "RelativeToolTip": "DemoDataValidationAnnotation\\Controllers\\TqtMembersController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:22:03.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WELCOM\\Downloads\\DemoDataValidationAnnotation\\DemoDataValidationAnnotation\\Program.cs",
+              "RelativeDocumentMoniker": "DemoDataValidationAnnotation\\Program.cs",
+              "ToolTip": "C:\\Users\\WELCOM\\Downloads\\DemoDataValidationAnnotation\\DemoDataValidationAnnotation\\Program.cs",
+              "RelativeToolTip": "DemoDataValidationAnnotation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:39:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TqtMember.cs",
+              "DocumentMoniker": "C:\\Users\\WELCOM\\Downloads\\DemoDataValidationAnnotation\\DemoDataValidationAnnotation\\Models\\TqtMember.cs",
+              "RelativeDocumentMoniker": "DemoDataValidationAnnotation\\Models\\TqtMember.cs",
+              "ToolTip": "C:\\Users\\WELCOM\\Downloads\\DemoDataValidationAnnotation\\DemoDataValidationAnnotation\\Models\\TqtMember.cs",
+              "RelativeToolTip": "DemoDataValidationAnnotation\\Models\\TqtMember.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:01:50.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
